@@ -128,3 +128,8 @@
 227|github.com/OCA/intrastat
 229|github.com/OCA/interface-github
 230|github.com/OCA/queue
+236|github.com/OCA/l10n-chile
+233|github.com/OCA/connector-jira
+234|github.com/OCA/connector-lengow
+237|github.com/OCA/l10n-vietnam
+238|github.com/OCA/l10n-thailand
